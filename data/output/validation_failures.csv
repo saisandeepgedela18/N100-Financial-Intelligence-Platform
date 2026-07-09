@@ -1,0 +1,7 @@
+dataset,rule,severity,message
+companies,DQ-03,WARNING,9 missing values detected
+profitandloss,DQ-03,WARNING,231 missing values detected
+cashflow,DQ-03,WARNING,8 missing values detected
+documents,DQ-03,WARNING,52 missing values detected
+prosandcons,DQ-03,WARNING,6 missing values detected
+financial_ratios,DQ-03,WARNING,170 missing values detected
